@@ -1,0 +1,9 @@
+com\thbs\app\UserManagement\service\RegistrationService.class
+com\thbs\app\UserManagement\document\Registration.class
+com\thbs\app\UserManagement\controller\DeliveryStatusController.class
+com\thbs\app\UserManagement\UserManagementApplication.class
+com\thbs\app\UserManagement\repository\DeliveryStatusRepository.class
+com\thbs\app\UserManagement\service\DeliveryStatusService.class
+com\thbs\app\UserManagement\repository\RegistrationRepository.class
+com\thbs\app\UserManagement\document\DeliveryStatus.class
+com\thbs\app\UserManagement\controller\RegistrationController.class
